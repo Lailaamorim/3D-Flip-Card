@@ -73,7 +73,7 @@ main {
   text-align: center;
 
   background: linear-gradient(rgba(0, 0, 0, 0.2), rgba(0, 0, 0, 0.2)),
-    url(imagem/laila.jpeg);
+    url(https://photos.google.com/photo/AF1QipPx4vcJ3UtgIMPh1KiHZrNttouEKf29THB_DhK5);
     
     
   background-size: cover;
@@ -120,7 +120,7 @@ main {
 
 .back-card {
   background: linear-gradient(rgba(0, 0, 0, 0.2), rgba(0, 0, 0, 0.2)),
-  url(imagem/laila22.jpeg);
+  url(https://photos.google.com/photo/AF1QipNbJLLqYWEVzVHTsgIrCi-nqdzq2ZwkNCk_m3CO);
   background-size: cover;
   background-position: center;
   background-repeat: no-repeat;
