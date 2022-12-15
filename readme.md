@@ -1,5 +1,3 @@
-## 🖼️ Preview
-
 ![3D-Flip-Card](imagem/Lailaa.png)
 
 <h1 align="center">3D FLIP CARD</h1>
